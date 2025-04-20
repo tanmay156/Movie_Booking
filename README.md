@@ -59,7 +59,7 @@ A full-stack movie ticket booking application built with:
 
 1. Navigate to the backend directory:
    ```bash
-   cd Movie_Booking
+   cd Movie_Ticket_Booking
    ```
 
 2. Build the project:
