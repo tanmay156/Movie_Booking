@@ -47,6 +47,7 @@ A full-stack web application for movie ticket booking, built with **React** and 
 - Java 21+
 - Maven 3.8+
 - Node.js (v16 or higher) and npm
+- Springboot
 
 ### Backend Setup
 
